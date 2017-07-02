@@ -1,4 +1,4 @@
-# angular-2_setup
+# angular_2_setup
 Angular 2 setup for beginner 
 
 This is a base template for Angular 2/4 . It contains the core files you will need when starting an Angular 2/4 project.
